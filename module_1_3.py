@@ -1,8 +1,8 @@
-Name = 'Никита'
-print (Name)
-Age = 30
-print (Age)
-New_Age = 1
-print (Age + New_Age)
+name = "Никита"
+print ("Name:", name)
+age = 30
+print ("Age:", age)
+age = age + 1
+print ("New Age:", age)
 is_student = True
-print (is_student)
+print ("Is Student:", is_student)
